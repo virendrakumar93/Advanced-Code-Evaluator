@@ -1,0 +1,69 @@
+paths:
+  problems: "../Code_Evaluator-Code-Evaluator-IITB/problems"
+  reports: "reports"
+  gold_scores: "../Code_Evaluator-Code-Evaluator-IITB/dataset/gold_scores.json"
+
+sandbox:
+  timeout: 3.0
+  max_memory_mb: 256
+  allowed_imports:
+    - math
+    - collections
+    - itertools
+    - functools
+    - heapq
+    - bisect
+    - string
+    - re
+    - typing
+    - dataclasses
+    - copy
+    - operator
+    - statistics
+
+models:
+  - "Qwen/Qwen2.5-Coder-7B-Instruct"
+  - "deepseek-ai/deepseek-coder-6.7b-instruct"
+  - "codellama/CodeLlama-7b-Instruct-hf"
+  - "bigcode/starcoder2-15b"
+
+llm:
+  enabled: true
+  max_tokens: 2048
+  temperature: 0.1
+  retry_attempts: 3
+  timeout: 30
+
+scoring:
+  llm_weight: 0.4
+  weights:
+    correctness: 0.35
+    edge_cases: 0.20
+    complexity: 0.15
+    style: 0.15
+    clarity: 0.15
+  hallucination_llm_weight_reduction: 0.5
+
+static_analysis:
+  ruff:
+    enabled: true
+    select:
+      - E
+      - W
+      - F
+      - C
+      - N
+      - B
+
+agents:
+  test_designer:
+    enabled: true
+    description: "Suggests additional edge-case tests for the submission"
+  code_reviewer:
+    enabled: true
+    description: "Evaluates style, readability, maintainability, best practices"
+  complexity_analyst:
+    enabled: true
+    description: "Estimates time/space complexity, flags inefficiency"
+  consensus:
+    description: "Merges agent scores and resolves disagreements"

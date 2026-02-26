@@ -1,0 +1,3872 @@
+[
+  {
+    "problem_id": "problem_1",
+    "submission_id": "brute_force",
+    "deterministic_score": 8.95,
+    "llm_adjusted_score": 8.95,
+    "final_score": 8.95,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 5.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_1",
+    "submission_id": "correct_alt",
+    "deterministic_score": 9.55,
+    "llm_adjusted_score": 9.55,
+    "final_score": 9.55,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 9.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_1",
+    "submission_id": "correct_optimal",
+    "deterministic_score": 9.55,
+    "llm_adjusted_score": 9.55,
+    "final_score": 9.55,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 9.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_1",
+    "submission_id": "edge_case_bug",
+    "deterministic_score": 7.65,
+    "llm_adjusted_score": 7.65,
+    "final_score": 7.65,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 8,
+        "failed": 2,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_duplicates (__test_runner__.TestTwoSum.test_duplicates)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 12, in test_duplicates\n    self.assertEqual(sorted(two_sum([3, 3], 6)), [0, 1])\nAssertionError: Lists differ: [] != [0, 1]\n\nSecond list contains 2 additional elements.\nFirst extra element 0:\n0\n\n- []\n+ [0, 1]\n",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "test_zero_target (__test_runner__.TestTwoSum.test_zero_target)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 27, in test_zero_target\n    self.assertEqual(sorted(two_sum([0, 4, 3, 0], 0)), [0, 3])\nAssertionError: Lists differ: [] != [0, 3]\n\nSecond list contains 2 additional elements.\nFirst extra element 0:\n0\n\n- []\n+ [0, 3]\n",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          }
+        ],
+        "pass_rate": 0.8
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 8.0,
+      "edge_cases": 7.0,
+      "complexity": 5.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_1",
+    "submission_id": "partial_correct",
+    "deterministic_score": 7.7,
+    "llm_adjusted_score": 7.7,
+    "final_score": 7.7,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 7,
+        "failed": 3,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_large_numbers (__test_runner__.TestTwoSum.test_large_numbers)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 21, in test_large_numbers\n    self.assertEqual(sorted(two_sum([1000000000, -1000000000], 0)), [0, 1])\nAssertionError: Lists differ: [] != [0, 1]\n\nSecond list contains 2 additional elements.\nFirst extra element 0:\n0\n\n- []\n+ [0, 1]\n",
+            "execution_time": 0.002
+          },
+          {
+            "test_name": "test_mixed_signs (__test_runner__.TestTwoSum.test_mixed_signs)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 18, in test_mixed_signs\n    self.assertEqual(sorted(two_sum([-3, 4, 3, 90], 0)), [0, 2])\nAssertionError: Lists differ: [] != [0, 2]\n\nSecond list contains 2 additional elements.\nFirst extra element 0:\n0\n\n- []\n+ [0, 2]\n",
+            "execution_time": 0.002
+          },
+          {
+            "test_name": "test_negative_numbers (__test_runner__.TestTwoSum.test_negative_numbers)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 15, in test_negative_numbers\n    self.assertEqual(sorted(two_sum([-1, -2, -3, -4, -5], -8)), [2, 4])\nAssertionError: Lists differ: [] != [2, 4]\n\nSecond list contains 2 additional elements.\nFirst extra element 0:\n2\n\n- []\n+ [2, 4]\n",
+            "execution_time": 0.002
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.002
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.002
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.002
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.002
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.002
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.002
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.002
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.002
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.002
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.002
+          }
+        ],
+        "pass_rate": 0.7
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 7.0,
+      "edge_cases": 6.0,
+      "complexity": 9.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_1",
+    "submission_id": "style_poor",
+    "deterministic_score": 8.77,
+    "llm_adjusted_score": 8.77,
+    "final_score": 8.77,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmp8mq83pnk.py",
+          "line": 5,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 9.0,
+      "style": 4.8,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_1",
+    "submission_id": "timeout_risk",
+    "deterministic_score": 2.4,
+    "llm_adjusted_score": 2.4,
+    "final_score": 2.4,
+    "execution_artifact": {
+      "test_results": {
+        "total": 0,
+        "passed": 0,
+        "failed": 0,
+        "errors": 0,
+        "results": [],
+        "pass_rate": 0.0
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmphgvljy4l.py",
+          "line": 7,
+          "code": "B007",
+          "message": "Loop control variable `k` not used within loop body"
+        },
+        {
+          "file": "/tmp/tmphgvljy4l.py",
+          "line": 9,
+          "code": "B007",
+          "message": "Loop control variable `k` not used within loop body"
+        }
+      ],
+      "runtime_errors": "Execution timed out after 3.0s",
+      "execution_time": 3.0,
+      "sandbox_violation": false,
+      "timeout": true
+    },
+    "deterministic_rubric": {
+      "correctness": 0.0,
+      "edge_cases": 0.0,
+      "complexity": 2.0,
+      "style": 6.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_1",
+    "submission_id": "wrong_logic",
+    "deterministic_score": 4.05,
+    "llm_adjusted_score": 4.05,
+    "final_score": 4.05,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 0,
+        "failed": 10,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_basic (__test_runner__.TestTwoSum.test_basic)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 6, in test_basic\n    self.assertEqual(sorted(two_sum([2, 7, 11, 15], 9)), [0, 1])\nAssertionError: Lists differ: [1, 2] != [0, 1]\n\nFirst differing element 0:\n1\n0\n\n- [1, 2]\n+ [0, 1]\n",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "test_duplicates (__test_runner__.TestTwoSum.test_duplicates)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 12, in test_duplicates\n    self.assertEqual(sorted(two_sum([3, 3], 6)), [0, 1])\nAssertionError: Lists differ: [1, 2] != [0, 1]\n\nFirst differing element 0:\n1\n0\n\n- [1, 2]\n+ [0, 1]\n",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "test_first_and_last (__test_runner__.TestTwoSum.test_first_and_last)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 34, in test_first_and_last\n    self.assertEqual(sorted(two_sum([10, 1, 2, 3, 5], 15)), [0, 4])\nAssertionError: Lists differ: [1, 5] != [0, 4]\n\nFirst differing element 0:\n1\n0\n\n- [1, 5]\n+ [0, 4]\n",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "test_large_numbers (__test_runner__.TestTwoSum.test_large_numbers)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 21, in test_large_numbers\n    self.assertEqual(sorted(two_sum([1000000000, -1000000000], 0)), [0, 1])\nAssertionError: Lists differ: [1, 2] != [0, 1]\n\nFirst differing element 0:\n1\n0\n\n- [1, 2]\n+ [0, 1]\n",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "test_larger_array (__test_runner__.TestTwoSum.test_larger_array)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 31, in test_larger_array\n    self.assertIn(result, [[1, 4], [2, 3]])\nAssertionError: [3, 4] not found in [[1, 4], [2, 3]]\n",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "test_middle_elements (__test_runner__.TestTwoSum.test_middle_elements)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 9, in test_middle_elements\n    self.assertEqual(sorted(two_sum([3, 2, 4], 6)), [1, 2])\nAssertionError: Lists differ: [2, 3] != [1, 2]\n\nFirst differing element 0:\n2\n1\n\n- [2, 3]\n+ [1, 2]\n",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "test_mixed_signs (__test_runner__.TestTwoSum.test_mixed_signs)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 18, in test_mixed_signs\n    self.assertEqual(sorted(two_sum([-3, 4, 3, 90], 0)), [0, 2])\nAssertionError: Lists differ: [1, 3] != [0, 2]\n\nFirst differing element 0:\n1\n0\n\n- [1, 3]\n+ [0, 2]\n",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "test_negative_numbers (__test_runner__.TestTwoSum.test_negative_numbers)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 15, in test_negative_numbers\n    self.assertEqual(sorted(two_sum([-1, -2, -3, -4, -5], -8)), [2, 4])\nAssertionError: Lists differ: [3, 5] != [2, 4]\n\nFirst differing element 0:\n3\n2\n\n- [3, 5]\n+ [2, 4]\n",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "test_single_pair (__test_runner__.TestTwoSum.test_single_pair)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 24, in test_single_pair\n    self.assertEqual(sorted(two_sum([1, 2], 3)), [0, 1])\nAssertionError: Lists differ: [1, 2] != [0, 1]\n\nFirst differing element 0:\n1\n0\n\n- [1, 2]\n+ [0, 1]\n",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "test_zero_target (__test_runner__.TestTwoSum.test_zero_target)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 27, in test_zero_target\n    self.assertEqual(sorted(two_sum([0, 4, 3, 0], 0)), [0, 3])\nAssertionError: Lists differ: [1, 4] != [0, 3]\n\nFirst differing element 0:\n1\n0\n\n- [1, 4]\n+ [0, 3]\n",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0037
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0037
+          }
+        ],
+        "pass_rate": 0.0
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 0.0,
+      "edge_cases": 0.0,
+      "complexity": 9.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_2",
+    "submission_id": "correct_iterative",
+    "deterministic_score": 9.595,
+    "llm_adjusted_score": 9.595,
+    "final_score": 9.595,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0005
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0005
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0005
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0005
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0005
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0005
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0005
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0005
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0005
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0005
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 10.0,
+      "style": 8.8,
+      "clarity": 8.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_2",
+    "submission_id": "correct_recursive",
+    "deterministic_score": 9.7,
+    "llm_adjusted_score": 9.7,
+    "final_score": 9.7,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0006
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0006
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0006
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0006
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0006
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0006
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0006
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0006
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0006
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0006
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 10.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_2",
+    "submission_id": "edge_case_bug",
+    "deterministic_score": 9.125,
+    "llm_adjusted_score": 9.125,
+    "final_score": 9.125,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 9,
+        "failed": 1,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_n_zero (__test_runner__.TestGenerateParentheses.test_n_zero)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 7, in test_n_zero\n    self.assertEqual(result, [\"\"])\nAssertionError: Lists differ: [] != ['']\n\nSecond list contains 1 additional elements.\nFirst extra element 0:\n''\n\n- []\n+ ['']\n",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0013
+          }
+        ],
+        "pass_rate": 0.9
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 9.0,
+      "edge_cases": 8.5,
+      "complexity": 10.0,
+      "style": 10.0,
+      "clarity": 8.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_2",
+    "submission_id": "inefficient",
+    "deterministic_score": 9.775,
+    "llm_adjusted_score": 9.775,
+    "final_score": 9.775,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0011
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0011
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0011
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0011
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0011
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0011
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0011
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0011
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0011
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0011
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 10.0,
+      "style": 10.0,
+      "clarity": 8.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_2",
+    "submission_id": "missing_cases",
+    "deterministic_score": 7.925,
+    "llm_adjusted_score": 7.925,
+    "final_score": 7.925,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 7,
+        "failed": 3,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_n_five_length (__test_runner__.TestGenerateParentheses.test_n_five_length)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 49, in test_n_five_length\n    self.assertEqual(len(result), 42)\nAssertionError: 16 != 42\n",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "test_n_four_length (__test_runner__.TestGenerateParentheses.test_n_four_length)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 21, in test_n_four_length\n    self.assertEqual(len(result), 14)\nAssertionError: 8 != 14\n",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "test_n_three (__test_runner__.TestGenerateParentheses.test_n_three)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 17, in test_n_three\n    self.assertEqual(sorted(generate_parentheses(3)), expected)\nAssertionError: Lists differ: ['((()))', '(())()', '()(())', '()()()'] != ['((()))', '(()())', '(())()', '()(())', '()()()']\n\nFirst differing element 1:\n'(())()'\n'(()())'\n\nSecond list contains 1 additional elements.\nFirst extra element 4:\n'()()()'\n\n- ['((()))', '(())()', '()(())', '()()()']\n+ ['((()))', '(()())', '(())()', '()(())', '()()()']\n?            ++++++++++\n\n",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          }
+        ],
+        "pass_rate": 0.7
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 7.0,
+      "edge_cases": 6.0,
+      "complexity": 10.0,
+      "style": 10.0,
+      "clarity": 8.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_2",
+    "submission_id": "style_poor",
+    "deterministic_score": 8.2,
+    "llm_adjusted_score": 8.2,
+    "final_score": 8.2,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmp5o47m0c7.py",
+          "line": 2,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmp5o47m0c7.py",
+          "line": 5,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmp5o47m0c7.py",
+          "line": 5,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmp5o47m0c7.py",
+          "line": 6,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmp5o47m0c7.py",
+          "line": 7,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 10.0,
+      "style": 0.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_2",
+    "submission_id": "wrong_logic",
+    "deterministic_score": 6.315,
+    "llm_adjusted_score": 6.315,
+    "final_score": 6.315,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 4,
+        "failed": 6,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_all_valid_parentheses (__test_runner__.TestGenerateParentheses.test_all_valid_parentheses)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 31, in test_all_valid_parentheses\n    self.assertGreaterEqual(depth, 0, f\"Invalid parentheses: {combo}\")\nAssertionError: -1 not greater than or equal to 0 : Invalid parentheses: ((())))(\n",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "test_n_five_length (__test_runner__.TestGenerateParentheses.test_n_five_length)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 49, in test_n_five_length\n    self.assertEqual(len(result), 42)\nAssertionError: 252 != 42\n",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "test_n_four_length (__test_runner__.TestGenerateParentheses.test_n_four_length)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 21, in test_n_four_length\n    self.assertEqual(len(result), 14)\nAssertionError: 70 != 14\n",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "test_n_one (__test_runner__.TestGenerateParentheses.test_n_one)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 10, in test_n_one\n    self.assertEqual(generate_parentheses(1), [\"()\"])\nAssertionError: Lists differ: ['()', ')('] != ['()']\n\nFirst list contains 1 additional elements.\nFirst extra element 1:\n')('\n\n- ['()', ')(']\n+ ['()']\n",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "test_n_three (__test_runner__.TestGenerateParentheses.test_n_three)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 17, in test_n_three\n    self.assertEqual(sorted(generate_parentheses(3)), expected)\nAssertionError: Lists differ: ['((([23 chars]', '(()))(', '()(())', '()()()', '()())(', '()[121 chars]((('] != ['((([23 chars]', '()(())', '()()()']\n\nFirst differing element 3:\n'(()))('\n'()(())'\n\nFirst list contains 15 additional elements.\nFirst extra element 5:\n'()()()'\n\n+ ['((()))', '(()())', '(())()', '()(())', '()()()']\n- ['((()))',\n-  '(()())',\n-  '(())()',\n-  '(()))(',\n-  '()(())',\n-  '()()()',\n-  '()())(',\n-  '())(()',\n-  '())()(',\n-  '()))((',\n-  ')((())',\n-  ')(()()',\n-  ')(())(',\n-  ')()(()',\n-  ')()()(',\n-  ')())((',\n-  '))((()',\n-  '))(()(',\n-  '))()((',\n-  ')))(((']\n",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "test_n_two (__test_runner__.TestGenerateParentheses.test_n_two)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 13, in test_n_two\n    self.assertEqual(sorted(generate_parentheses(2)), [\"(())\", \"()()\"])\nAssertionError: Lists differ: ['(())', '()()', '())(', ')(()', ')()(', '))(('] != ['(())', '()()']\n\nFirst list contains 4 additional elements.\nFirst extra element 2:\n'())('\n\n- ['(())', '()()', '())(', ')(()', ')()(', '))((']\n+ ['(())', '()()']\n",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0023
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0023
+          }
+        ],
+        "pass_rate": 0.4
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 4.0,
+      "edge_cases": 3.2,
+      "complexity": 10.0,
+      "style": 10.0,
+      "clarity": 8.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_3",
+    "submission_id": "correct_dp",
+    "deterministic_score": 9.25,
+    "llm_adjusted_score": 9.25,
+    "final_score": 9.25,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0003
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmpfayv5wmh.py",
+          "line": 8,
+          "code": "B007",
+          "message": "Loop control variable `i` not used within loop body"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 9.0,
+      "style": 8.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_3",
+    "submission_id": "correct_recursive_memo",
+    "deterministic_score": 9.7,
+    "llm_adjusted_score": 9.7,
+    "final_score": 9.7,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 10.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_3",
+    "submission_id": "edge_case_bug",
+    "deterministic_score": 7.475,
+    "llm_adjusted_score": 7.475,
+    "final_score": 7.475,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 7,
+        "failed": 3,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_edge_case_n_equals_1 (__test_runner__.TestClimbStairs.test_edge_case_n_equals_1)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 38, in test_edge_case_n_equals_1\n    self.assertEqual(result, 1)\nAssertionError: 0 != 1\n",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "test_n_equals_1 (__test_runner__.TestClimbStairs.test_n_equals_1)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 9, in test_n_equals_1\n    self.assertEqual(climb_stairs(1), 1)\nAssertionError: 0 != 1\n",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "test_n_equals_2 (__test_runner__.TestClimbStairs.test_n_equals_2)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 13, in test_n_equals_2\n    self.assertEqual(climb_stairs(2), 2)\nAssertionError: 1 != 2\n",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          }
+        ],
+        "pass_rate": 0.7
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmp5zdhdfgl.py",
+          "line": 12,
+          "code": "B007",
+          "message": "Loop control variable `i` not used within loop body"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 7.0,
+      "edge_cases": 6.0,
+      "complexity": 9.0,
+      "style": 8.0,
+      "clarity": 8.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_3",
+    "submission_id": "naive_recursive",
+    "deterministic_score": 3.6,
+    "llm_adjusted_score": 3.6,
+    "final_score": 3.6,
+    "execution_artifact": {
+      "test_results": {
+        "total": 0,
+        "passed": 0,
+        "failed": 0,
+        "errors": 0,
+        "results": [],
+        "pass_rate": 0.0
+      },
+      "static_warnings": [],
+      "runtime_errors": "Execution timed out after 3.0s",
+      "execution_time": 3.0,
+      "sandbox_violation": false,
+      "timeout": true
+    },
+    "deterministic_rubric": {
+      "correctness": 0.0,
+      "edge_cases": 0.0,
+      "complexity": 6.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_3",
+    "submission_id": "partial_correct",
+    "deterministic_score": 8.315,
+    "llm_adjusted_score": 8.315,
+    "final_score": 8.315,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 9,
+        "failed": 1,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_n_equals_45 (__test_runner__.TestClimbStairs.test_n_equals_45)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 43, in test_n_equals_45\n    self.assertEqual(climb_stairs(45), 1836311903)\nAssertionError: 1836311908 != 1836311903\n",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          }
+        ],
+        "pass_rate": 0.9
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmp05ltocw7.py",
+          "line": 12,
+          "code": "B007",
+          "message": "Loop control variable `i` not used within loop body"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 9.0,
+      "edge_cases": 8.5,
+      "complexity": 9.0,
+      "style": 5.6,
+      "clarity": 8.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_3",
+    "submission_id": "style_poor",
+    "deterministic_score": 8.155,
+    "llm_adjusted_score": 8.155,
+    "final_score": 8.155,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmp66w6zkb0.py",
+          "line": 2,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmp66w6zkb0.py",
+          "line": 3,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmp66w6zkb0.py",
+          "line": 4,
+          "code": "B007",
+          "message": "Loop control variable `z` not used within loop body"
+        },
+        {
+          "file": "/tmp/tmp66w6zkb0.py",
+          "line": 5,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmp66w6zkb0.py",
+          "line": 5,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 9.0,
+      "style": 0.7,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_3",
+    "submission_id": "wrong_logic",
+    "deterministic_score": 5.355,
+    "llm_adjusted_score": 5.355,
+    "final_score": 5.355,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 3,
+        "failed": 7,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_n_equals_10 (__test_runner__.TestClimbStairs.test_n_equals_10)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 29, in test_n_equals_10\n    self.assertEqual(climb_stairs(10), 89)\nAssertionError: 55 != 89\n",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "test_n_equals_2 (__test_runner__.TestClimbStairs.test_n_equals_2)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 13, in test_n_equals_2\n    self.assertEqual(climb_stairs(2), 2)\nAssertionError: 1 != 2\n",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "test_n_equals_20 (__test_runner__.TestClimbStairs.test_n_equals_20)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 33, in test_n_equals_20\n    self.assertEqual(climb_stairs(20), 10946)\nAssertionError: 6765 != 10946\n",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "test_n_equals_3 (__test_runner__.TestClimbStairs.test_n_equals_3)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 17, in test_n_equals_3\n    self.assertEqual(climb_stairs(3), 3)\nAssertionError: 2 != 3\n",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "test_n_equals_4 (__test_runner__.TestClimbStairs.test_n_equals_4)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 21, in test_n_equals_4\n    self.assertEqual(climb_stairs(4), 5)\nAssertionError: 3 != 5\n",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "test_n_equals_45 (__test_runner__.TestClimbStairs.test_n_equals_45)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 43, in test_n_equals_45\n    self.assertEqual(climb_stairs(45), 1836311903)\nAssertionError: 1134903170 != 1836311903\n",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "test_n_equals_5 (__test_runner__.TestClimbStairs.test_n_equals_5)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 25, in test_n_equals_5\n    self.assertEqual(climb_stairs(5), 8)\nAssertionError: 5 != 8\n",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          }
+        ],
+        "pass_rate": 0.3
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmp17m2zcc3.py",
+          "line": 11,
+          "code": "B007",
+          "message": "Loop control variable `i` not used within loop body"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 3.0,
+      "edge_cases": 2.4,
+      "complexity": 9.0,
+      "style": 8.0,
+      "clarity": 8.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_4",
+    "submission_id": "correct_recursive",
+    "deterministic_score": 8.65,
+    "llm_adjusted_score": 8.65,
+    "final_score": 8.65,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmpvw9bm3xp.py",
+          "line": 1,
+          "code": "C901",
+          "message": "`evaluate_expression` is too complex (16 > 10)"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 6.0,
+      "style": 9.0,
+      "clarity": 6.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_4",
+    "submission_id": "correct_stack",
+    "deterministic_score": 8.725,
+    "llm_adjusted_score": 8.725,
+    "final_score": 8.725,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmpy5rp5w3a.py",
+          "line": 1,
+          "code": "C901",
+          "message": "`evaluate_expression` is too complex (12 > 10)"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 5.0,
+      "style": 9.0,
+      "clarity": 7.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_4",
+    "submission_id": "edge_case_bug",
+    "deterministic_score": 8.075,
+    "llm_adjusted_score": 8.075,
+    "final_score": 8.075,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 9,
+        "failed": 1,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_spaces_in_expression (__test_runner__.TestEvaluateExpression.test_spaces_in_expression)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 27, in test_spaces_in_expression\n    self.assertEqual(evaluate_expression(\" 3 + 5 / 2 \"), 5)\nAssertionError: 0 != 5\n",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          }
+        ],
+        "pass_rate": 0.9
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmpde6er4k0.py",
+          "line": 1,
+          "code": "C901",
+          "message": "`evaluate_expression` is too complex (13 > 10)"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 9.0,
+      "edge_cases": 8.5,
+      "complexity": 6.0,
+      "style": 9.0,
+      "clarity": 6.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_4",
+    "submission_id": "no_parens",
+    "deterministic_score": 8.825,
+    "llm_adjusted_score": 8.825,
+    "final_score": 8.825,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 9,
+        "failed": 1,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_nested_parentheses (__test_runner__.TestEvaluateExpression.test_nested_parentheses)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 24, in test_nested_parentheses\n    self.assertEqual(evaluate_expression(\"((2+3)*(4-1))\"), 15)\nAssertionError: 13 != 15\n",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.001
+          }
+        ],
+        "pass_rate": 0.9
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 9.0,
+      "edge_cases": 8.5,
+      "complexity": 9.0,
+      "style": 10.0,
+      "clarity": 7.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_4",
+    "submission_id": "partial_correct",
+    "deterministic_score": 6.175,
+    "llm_adjusted_score": 6.175,
+    "final_score": 6.175,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 6,
+        "failed": 4,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_negative_intermediate_result (__test_runner__.TestEvaluateExpression.test_negative_intermediate_result)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 30, in test_negative_intermediate_result\n    self.assertEqual(evaluate_expression(\"1-2+3*4\"), 11)\nAssertionError: 6 != 11\n",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "test_nested_parentheses (__test_runner__.TestEvaluateExpression.test_nested_parentheses)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 24, in test_nested_parentheses\n    self.assertEqual(evaluate_expression(\"((2+3)*(4-1))\"), 15)\nAssertionError: 8 != 15\n",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "test_simple_multiplication (__test_runner__.TestEvaluateExpression.test_simple_multiplication)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 12, in test_simple_multiplication\n    self.assertEqual(evaluate_expression(\"4*5\"), 20)\nAssertionError: 9 != 20\n",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "test_spaces_in_expression (__test_runner__.TestEvaluateExpression.test_spaces_in_expression)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 27, in test_spaces_in_expression\n    self.assertEqual(evaluate_expression(\" 3 + 5 / 2 \"), 5)\nAssertionError: 6 != 5\n",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0017
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0017
+          }
+        ],
+        "pass_rate": 0.6
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmpyrru4kky.py",
+          "line": 1,
+          "code": "C901",
+          "message": "`evaluate_expression` is too complex (18 > 10)"
+        },
+        {
+          "file": "/tmp/tmpyrru4kky.py",
+          "line": 8,
+          "code": "C901",
+          "message": "`parse_expression` is too complex (11 > 10)"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 6.0,
+      "edge_cases": 5.0,
+      "complexity": 5.0,
+      "style": 9.0,
+      "clarity": 6.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_4",
+    "submission_id": "style_poor",
+    "deterministic_score": 7.15,
+    "llm_adjusted_score": 7.15,
+    "final_score": 7.15,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 1,
+          "code": "C901",
+          "message": "`evaluate_expression` is too complex (16 > 10)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 2,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 7,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 7,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 8,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 8,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 9,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 9,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 10,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 16,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 16,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 17,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 17,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 19,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 19,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 20,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 24,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 26,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 27,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 28,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 30,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmpl7l9jod_.py",
+          "line": 30,
+          "code": "E702",
+          "message": "Multiple statements on one line (semicolon)"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 6.0,
+      "style": 0.0,
+      "clarity": 5.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_4",
+    "submission_id": "wrong_precedence",
+    "deterministic_score": 6.725,
+    "llm_adjusted_score": 6.725,
+    "final_score": 6.725,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 7,
+        "failed": 3,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_mixed_operations_precedence (__test_runner__.TestEvaluateExpression.test_mixed_operations_precedence)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 18, in test_mixed_operations_precedence\n    self.assertEqual(evaluate_expression(\"3+2*2\"), 7)\nAssertionError: 10 != 7\n",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "test_negative_intermediate_result (__test_runner__.TestEvaluateExpression.test_negative_intermediate_result)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 30, in test_negative_intermediate_result\n    self.assertEqual(evaluate_expression(\"1-2+3*4\"), 11)\nAssertionError: 8 != 11\n",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "test_spaces_in_expression (__test_runner__.TestEvaluateExpression.test_spaces_in_expression)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 27, in test_spaces_in_expression\n    self.assertEqual(evaluate_expression(\" 3 + 5 / 2 \"), 5)\nAssertionError: 4 != 5\n",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0019
+          }
+        ],
+        "pass_rate": 0.7
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmpt1krgj29.py",
+          "line": 1,
+          "code": "C901",
+          "message": "`evaluate_expression` is too complex (14 > 10)"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 7.0,
+      "edge_cases": 6.0,
+      "complexity": 5.0,
+      "style": 9.0,
+      "clarity": 6.5
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_5",
+    "submission_id": "correct_alt",
+    "deterministic_score": 8.95,
+    "llm_adjusted_score": 8.95,
+    "final_score": 8.95,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 5.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_5",
+    "submission_id": "correct_bfs",
+    "deterministic_score": 8.95,
+    "llm_adjusted_score": 8.95,
+    "final_score": 8.95,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 5.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_5",
+    "submission_id": "edge_case_bug",
+    "deterministic_score": 7.65,
+    "llm_adjusted_score": 7.65,
+    "final_score": 7.65,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 8,
+        "failed": 2,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_same_start_and_end (__test_runner__.TestShortestPath.test_same_start_and_end)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 25, in test_same_start_and_end\n    self.assertEqual(shortest_path(graph, 0, 0), 0)\nAssertionError: 2 != 0\n",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "test_single_node (__test_runner__.TestShortestPath.test_single_node)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 51, in test_single_node\n    self.assertEqual(shortest_path(graph, 0, 0), 0)\nAssertionError: -1 != 0\n",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0014
+          }
+        ],
+        "pass_rate": 0.8
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 8.0,
+      "edge_cases": 7.0,
+      "complexity": 5.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_5",
+    "submission_id": "no_visited",
+    "deterministic_score": 3.45,
+    "llm_adjusted_score": 3.45,
+    "final_score": 3.45,
+    "execution_artifact": {
+      "test_results": {
+        "total": 0,
+        "passed": 0,
+        "failed": 0,
+        "errors": 0,
+        "results": [],
+        "pass_rate": 0.0
+      },
+      "static_warnings": [],
+      "runtime_errors": "Execution timed out after 3.0s",
+      "execution_time": 3.0,
+      "sandbox_violation": false,
+      "timeout": true
+    },
+    "deterministic_rubric": {
+      "correctness": 0.0,
+      "edge_cases": 0.0,
+      "complexity": 5.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_5",
+    "submission_id": "partial_correct",
+    "deterministic_score": 8.3,
+    "llm_adjusted_score": 8.3,
+    "final_score": 8.3,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 9,
+        "failed": 0,
+        "errors": 1,
+        "results": [
+          {
+            "test_name": "test_node_not_in_graph (__test_runner__.TestShortestPath.test_node_not_in_graph)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 74, in test_node_not_in_graph\n    self.assertEqual(shortest_path(graph, 5, 0), -1)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"submission.py\", line 15, in shortest_path\n    for neighbor in graph[node]:\n                    ~~~~~^^^^^^\nKeyError: 5\n",
+            "execution_time": 0.0016
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0016
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0016
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0016
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0016
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0016
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0016
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0016
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0016
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0016
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0016
+          }
+        ],
+        "pass_rate": 0.9
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 9.0,
+      "edge_cases": 8.5,
+      "complexity": 5.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_5",
+    "submission_id": "style_poor",
+    "deterministic_score": 7.915,
+    "llm_adjusted_score": 7.915,
+    "final_score": 7.915,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 10,
+        "failed": 0,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0004
+          }
+        ],
+        "pass_rate": 1.0
+      },
+      "static_warnings": [
+        {
+          "file": "/tmp/tmpzzpruls3.py",
+          "line": 3,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmpzzpruls3.py",
+          "line": 4,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        },
+        {
+          "file": "/tmp/tmpzzpruls3.py",
+          "line": 11,
+          "code": "E701",
+          "message": "Multiple statements on one line (colon)"
+        }
+      ],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 10.0,
+      "edge_cases": 10.0,
+      "complexity": 5.0,
+      "style": 3.1,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  },
+  {
+    "problem_id": "problem_5",
+    "submission_id": "wrong_logic",
+    "deterministic_score": 8.9,
+    "llm_adjusted_score": 8.9,
+    "final_score": 8.9,
+    "execution_artifact": {
+      "test_results": {
+        "total": 10,
+        "passed": 9,
+        "failed": 1,
+        "errors": 0,
+        "results": [
+          {
+            "test_name": "test_larger_graph (__test_runner__.TestShortestPath.test_larger_graph)",
+            "passed": false,
+            "message": "Traceback (most recent call last):\n  File \"tests.py\", line 64, in test_larger_graph\n    self.assertEqual(shortest_path(graph, 0, 4), 1)\nAssertionError: 4 != 1\n",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          },
+          {
+            "test_name": "None",
+            "passed": true,
+            "message": "",
+            "execution_time": 0.0012
+          }
+        ],
+        "pass_rate": 0.9
+      },
+      "static_warnings": [],
+      "runtime_errors": "",
+      "execution_time": 0.0,
+      "sandbox_violation": false,
+      "timeout": false
+    },
+    "deterministic_rubric": {
+      "correctness": 9.0,
+      "edge_cases": 8.5,
+      "complexity": 9.0,
+      "style": 10.0,
+      "clarity": 8.0
+    },
+    "agent_judgments": [],
+    "consensus": null,
+    "hallucination_flags": [],
+    "model_used": "",
+    "fallback_info": "LLM disabled",
+    "confidence": 1.0
+  }
+]
