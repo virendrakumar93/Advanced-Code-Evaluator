@@ -92,15 +92,85 @@ python cli.py --evaluate all --no-llm
 python cli.py --evaluate all --verbose
 ```
 
-## Setup
+## Running the Project Locally
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/virendrakumar93/Advanced-Code-Evaluator.git
+cd Advanced-Code-Evaluator/Code-Evaluator-V2
+```
+
+### 2. Create a virtual environment
+
+```bash
+python3 -m venv venv
+```
+
+Activate it:
+
+```bash
+# Linux / macOS
+source venv/bin/activate
+
+# Windows
+venv\Scripts\activate
+```
+
+### 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Set your HuggingFace API key (optional — system works without it):
+### 4. Configure HuggingFace API key (optional)
+
+The LLM agents require a [HuggingFace](https://huggingface.co/settings/tokens) API token.
+Without one, the system falls back to deterministic-only scoring (no crash).
+
+The code checks these environment variables in order (see `llm/model_router.py`):
+
+- `HF_API_KEY`
+- `HF_TOKEN`
+- `HUGGINGFACEHUB_API_TOKEN`
+
+Set it in your shell:
+
 ```bash
-export HF_API_KEY=hf_your_token_here
+export HF_API_KEY=hf_xxxxxxxxxxxxxxxxx
+```
+
+Or copy the included template and load it:
+
+```bash
+cp .env.example .env
+# Edit .env with your token, then:
+source .env
+```
+
+### 5. Run the evaluation pipeline
+
+```bash
+# Show available options
+python cli.py --help
+
+# Evaluate all problems and submissions
+python cli.py --evaluate all
+
+# Evaluate a specific problem
+python cli.py --evaluate problem_1
+
+# Evaluate a specific submission
+python cli.py --evaluate problem_1 --submission correct_optimal
+
+# Deterministic-only mode (no LLM)
+python cli.py --evaluate all --no-llm
+
+# Verbose logging
+python cli.py --evaluate all --verbose
+
+# Custom config and output directory
+python cli.py --evaluate all --config config.yaml --output-dir reports
 ```
 
 ## Hardware Requirements
@@ -122,6 +192,14 @@ Reports generated in `reports/`:
 - `results.json` — machine-readable full results
 
 ## Project Structure
+
+| Directory | Purpose |
+|-----------|---------|
+| `agents/` | LLM evaluation agents (test designer, code reviewer, complexity analyst, consensus) |
+| `core/` | Orchestration and deterministic scoring engine |
+| `llm/` | Model routing and HuggingFace Inference API integration |
+| `safety/` | Hallucination detection and auditing |
+| `reports/` | Generated evaluation reports |
 
 ```
 Code-Evaluator-V2/
