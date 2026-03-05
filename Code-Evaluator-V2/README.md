@@ -74,10 +74,15 @@ Five dimensions (0–10 each):
 - **Correctness** (35%) — test pass rate
 - **Edge Cases** (20%) — partial credit curve
 - **Complexity** (15%) — AST loop nesting analysis
+
 - **Style** (15%) — ruff warnings + heuristics
+
 - **Clarity** (15%) — readability heuristics
 
-Video Link- https://github.com/user-attachments/assets/f238ada7-824e-48ed-a003-a42aece21b24
+
+[Advanced_Code_Evaluator_V2.docx](https://github.com/user-attachments/files/25761921/Advanced_Code_Evaluator_V2.docx)
+
+video link- https://github.com/user-attachments/assets/e17a0b80-e12d-4e3a-b671-0f0d3db4aac9
 
 ## Usage
 
